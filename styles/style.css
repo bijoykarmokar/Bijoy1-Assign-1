@@ -47,6 +47,7 @@ body{
 .Bangladesh-content .head2{
     font-size: 24px;
     color:grey;
+    margin-bottom: 24px;
 }
 .Bangladesh-content .head3{
     font-size: 56px;
@@ -292,4 +293,329 @@ body{
 }
 #section-third .common .par5{
     font-size: 16px;
+}
+
+/* section fourth  has started  */
+
+#section-fourth{
+      margin: 0 160px;
+      margin-bottom: 80px;
+}
+
+#section-fourth .head10{
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.section-parent{
+    background-color:white;
+    padding: 32px;
+    border-radius: 10px;
+    
+}
+
+ table, tbody, tr, td{
+    border: 1px solid grey;
+    border-collapse:collapse;
+    padding: 24px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 900;
+}
+
+
+table tbody tr td select,option{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #09a15d43 ;
+    cursor: pointer;
+}
+ table thead tr th{
+    font-size: 20px;
+    padding: 24px;
+    text-align:start;
+    background-color: #09a15d43;
+    
+}
+
+/* section fifth has started */
+
+#section-fifth{
+    margin: 0 160px;
+    margin-bottom: 80px;
+}
+
+#section-fifth .head11{
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+#section-fifth .par6{
+    font-size: 16px;
+    color: grey;
+    margin-bottom: 32px;
+}
+
+.satalite-child-1{
+    display: flex;
+    gap: 32px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 48px;
+   margin-bottom: 24px;
+    
+}
+
+.satalite-child-1 .head12{
+    font-size: 32px;
+    margin-bottom: 12px;
+}
+.satalite-child-1 .img3{
+    border-radius: 20px;
+}
+.satalite-child-1 .img4{
+    margin-bottom: 16px;
+    
+}
+.satalite-child-1 .head13{
+    font-size: 16px;
+    margin-bottom: 12px;
+    color: grey;
+    
+}
+.satalite-child-1 .par7{
+    font-size: 16px;
+    margin-bottom: 28px;
+    color: grey;
+}
+span{
+    margin-left: 19px;
+    font-size: 16px;
+    color: grey;
+}
+.satalite-child-1 .btn4{
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 32px;
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: white;
+    background-color: #0b4c2f;
+    border: none;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.satalite-child-1 .btn4:hover{
+    background-color: #006A50;
+}
+.satalite-child-2{
+    display: flex;
+    gap: 32px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 48px;
+    margin-bottom: 24px;
+    
+}
+
+.satalite-child-2 .head12{
+    font-size: 32px;
+    margin-bottom: 12px;
+}
+.satalite-child-2 .img3{
+    border-radius: 20px;
+}
+.satalite-child-2 .img4{
+    margin-bottom: 16px;
+    
+}
+.satalite-child-2 .head13{
+    font-size: 16px;
+    margin-bottom: 12px;
+    color: grey;
+    
+}
+.satalite-child-2 .par7{
+    font-size: 16px;
+    margin-bottom: 28px;
+    color: grey;
+}
+span{
+    margin-left: 19px;
+    font-size: 16px;
+    color: grey;
+}
+.satalite-child-2 .btn4{
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 32px;
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: white;
+    background-color: #0b4c2f;
+    border: none;
+    cursor: pointer;
+}
+
+.satalite-child-2 .btn4:hover{
+    background-color: #006A50;
+}
+
+/* section six has started */
+
+#section-six{
+    margin: 0 160px;
+    text-align: center;
+}
+
+#section-six .head15{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+#section-six .par8{
+    font-size: 16px;
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+.Donate-container {
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+.Donate-container .button-1{
+    padding: 35px;
+    border-radius: 20px;
+    border: 1px solid grey;
+    margin-left: 24px;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.Donate-container .button-2{
+    padding: 35px;
+    border-radius: 20px;
+    background-color: #C6E4D6;
+    border: 1px solid grey;
+    margin-left: 24px;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.Donate-container .button-1:hover{
+     background-color:#09A15C;
+}
+.Donate-container .button-2:hover{
+    background-color:#09A15C;
+}
+
+#section-six input{
+    width: 70%;
+    padding: 20px 40px;
+    text-align: center;
+    font-size: 20px;
+    background-color:white ;
+    border: none;
+    margin-bottom: 32px;
+}
+
+#section-six .btn5{
+    padding: 17px;
+    background-color: #0b4c2f;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    margin-bottom: 80px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+#section-six .btn5:hover{
+    background-color:#006A50;
+
+}
+
+/* section-seven has started */
+
+#section-seven{
+    margin: 0 160px;
+    background-color: #C6E4D6;
+    padding: 80px 100px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+}
+
+#section-seven .head16{
+    font-size: 40px;
+    margin-bottom: 16px;
+    font-weight: bold;
+}
+#section-seven .section-content{
+    text-align: center;
+}
+#section-seven .par9{
+    font-size: 16px;
+    margin-bottom: 24px;
+    color: grey;
+
+}
+#section-seven #text1{
+    width: 60%;
+    padding: 18px 40px;
+    font-size: 16px;
+    border-radius: 10px 0 0 10px;
+    border: none;
+    background-color: white;
+    margin-left: 0px;
+}
+
+#section-seven input{
+    margin-right: -3px;
+    padding: 18px 40px;
+    background-color: white;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    border-radius: 0 10px 10px 0;
+    background-color: #0b4033;
+    color: white;
+    margin-bottom: 24px;
+}
+
+#section-seven .par10{
+    font-size: 16px;
+    color: grey;
+}
+
+/* footer section has started */
+
+#footer-eight{
+    margin: 0 160px;
+}
+
+#footer-eight .Bangladesh-last{
+    text-align: center;
+}
+
+#footer-eight .Bangladesh-last .head17{
+    font-size: 32px;
+    margin: 50px 0 32px 0;
+}
+
+#footer-eight .Bangladesh-last .icons-par{
+    margin:32px 0 50px 0;
+
+
+}
+
+#footer-eight .Bangladesh-last hr{
+    color: rgba(128, 128, 128, 0.078);
+    opacity: 0.3;
+}
+.icons-par .img7{
+    margin-left: 24px;
 }
